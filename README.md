@@ -1,2 +1,2 @@
 # Restricted-Boltzman-Machine
-Restricted Boltzmann Machine- Currently works for MNIST but will be applied to other data-sets and recommender systems.
+Simple Restricted Boltzmann Machine for the MNIST dataset. Implementation tutorial provided in the RBM-in-Tensorflow.pptx file. 
